@@ -72,7 +72,7 @@ Thank you for using Timed Shutdown PC!
 
 - **Pianificazione delle azioni:** Puoi specificare un orario (nel formato HH:MM) e scegliere se spegnere, riavviare o sospendere il computer a quell'orario.
 
-- **Validazione dell'orario:** L'app verifica se l'orario specificato è futuro e mostra un messaggio di errore se non lo è.
+- **Validazione dell'orario:** L'app verifica se l'orario specificato è giusto e mostra un messaggio di errore se non lo è.
 
 - **Esecuzione ritardata:** L'app attende fino all'orario specificato e quindi esegue l'azione selezionata.
 
