@@ -1,3 +1,7 @@
+# Software Name: Timed Shutdown PC
+# Author: Bocaletto Luca
+# Site Web: https://www.elektronoide.it
+# License: GPLv3
 # Import the tkinter module to create the graphical user interface
 import tkinter as tk
 from tkinter import ttk
