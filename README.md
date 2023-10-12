@@ -1,5 +1,9 @@
 # Timed Shutdown PC
 
+**Author:**Bocaletto Luca
+**License:**GPLv3
+**Web Site:**https://www.elektronoide.it
+
 **Timed Shutdown PC** is a Python application based on tkinter that allows you to schedule the shutdown, restart, or suspension of your computer at a specified time. It's a handy utility for automating computer shutdown actions.
 
 ![Screenshot 2023-10-12 120111](https://github.com/elektronoide/Timed-Shutdown-PC/assets/134635227/99b10534-34ae-4bdd-8701-fad258faceef)
