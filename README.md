@@ -56,3 +56,11 @@ Have questions or suggestions? Feel free to reach out to the author.
 If you'd like to contribute to this project, fork it and submit a pull request.
 
 Thank you for using Timed Shutdown PC!
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
