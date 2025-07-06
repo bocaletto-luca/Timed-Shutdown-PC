@@ -2,10 +2,8 @@
 
 **Autore:** Bocaletto Luca
 
-**Language:** Python
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge&logo=gnu)](LICENSE) [![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Linux-Compatible](https://img.shields.io/badge/Linux-Compatible-blue?style=for-the-badge&logo=linux)](https://www.kernel.org/) [![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)](https://github.com/bocaletto-luca/Directory-Monitor)
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-GPLv3-green)
 
 **Timed Shutdown PC** is a Python application based on tkinter that allows you to schedule the shutdown, restart, or suspension of your computer at a specified time. It's a handy utility for automating computer shutdown actions.
 
